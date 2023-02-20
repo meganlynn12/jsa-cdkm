@@ -3,3 +3,6 @@ Code and data for the Journal of Sports Analytics paper titled A Weighted Networ
 
 Paper citation: 
 Muniz, Megan and Flamand, Tulay. ‘A Weighted Network Clustering Approach in the NBA’. 1 Jan. 2022 : 251 – 275.
+
+Note:
+Play-by-play data too large to store here, see https://www.kaggle.com/datasets/schmadam97/nba-playbyplay-data-20182019.  
